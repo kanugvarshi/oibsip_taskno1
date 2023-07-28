@@ -1,0 +1,51 @@
+body{
+  background-image: url(pic.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+td{
+  border: 1px solid hsl(0, 4%, 5%);
+  background-color: rgb(22, 145, 194);
+}
+#id{
+  border-radius: 50%;
+}
+.btn:hover, .cl:hover, .eq:hover{
+  background-color: rgb(28, 167, 121);
+  
+}
+#tab{
+  background: none;
+  border: none;
+  color: aliceblue;
+  font-size: small;
+}
+
+.total{
+  background-color: #FFED00;
+  padding: 4%;
+  margin: 40px 480px;
+  border-radius: 5%;
+}
+table{
+  border: 5px solid #11e01b;
+  font-weight: 100px;
+  background-color:#16FF00;
+}
+tr,table{
+  border-radius: 30px 10px;
+}
+
+td{
+  color: silver;
+  font-weight:30px;
+  border-radius: 30px 10px;
+}
+
+button, .eq, .cl{
+  color: rgb(90, 75, 75);
+  background-color:aqua;
+  width: 50px;
+  height: 50px;
+  border-radius: 30px 10px;
+}
